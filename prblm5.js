@@ -27,3 +27,5 @@ function analyzeText(str) {
     
 }
 
+const result = analyzeText("hello world");
+console.log(result);
