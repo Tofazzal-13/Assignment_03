@@ -21,3 +21,5 @@ function finalScore(omr) {
    
 }
 
+const result = finalScore({"right":67,"wrong":23,"skip":10})
+console.log(result);
